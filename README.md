@@ -20,21 +20,21 @@
 - datoushaokao.club(https://datoushaokao.club) 
 - datoushaokao.ltd(https://datoushaokao.ltd)
 ## 已被墙域名datoucloud
-datoucloud.com
-datoucloud.cc
-datoucloud.club
-datoucloud.pro
-datoucloud.top
-datoucloud.red
-datoucloud.ink
+- datoucloud.com
+- datoucloud.cc
+- datoucloud.club
+- datoucloud.pro
+- datoucloud.top
+- datoucloud.red
+- datoucloud.ink
 ## 已被墙域名datou
-datou.red
-datou.ink
-datou.pub
-datou.club
-datou.ltd
-datou520.com
-datou666.com
+- datou.red
+- datou.ink
+- datou.pub
+- datou.club
+- datou.ltd
+- datou520.com
+- datou666.com
 
 
 ## 原导航域名xiaojiejie.ink 已被墙
