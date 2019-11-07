@@ -1,0 +1,16 @@
+新域名：
+bighead.ren
+bighead.run
+bighead.pub
+bighead.cool
+bighead.plus
+bighead.icu
+bighead.ink
+bighead.group 
+datoushaokao.ren 
+datoushaokao.co 
+datoushaokao.ink 
+datoushaokao.fun 
+datoushaokao.pub 
+datoushaokao.club 
+datoushaokao.ltd
