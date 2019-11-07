@@ -1,11 +1,8 @@
 <p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datou.ink/assets/images/home_logo.svg" alt="logo"/></span></strong><br/>
 </p>
-<h1>BigHead域名发布页</h1>
 
-> Q群:745386756
-
-<br/>
+- 企鹅群:745386756
 - telegram群(https://t.me/BigHeadSSRV2ray)
 - telegram频道(https://t.me/BigHeadssr)
 
