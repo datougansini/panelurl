@@ -11,14 +11,14 @@
 [永久域名](https://datoussr.com) 需翻墙。
 
 ## 当前最新域名:
-
-- [datoushaokao.ren](https://datoushaokao.ren)
-- [datoushaokao.co](https://datoushaokao.co) 
 - [datoushaokao.ink](https://datoushaokao.ink) 
 - [datoushaokao.fun](https://datoushaokao.fun) 
 - [datoushaokao.pub](https://datoushaokao.pub) 
 - [datoushaokao.club](https://datoushaokao.club) 
 - [datoushaokao.ltd](https://datoushaokao.ltd)
+## 已被墙域名datoushaokao
+- [datoushaokao.ren](https://datoushaokao.ren)
+- [datoushaokao.co](https://datoushaokao.co) 
 ## 已被墙域名datoucloud
 - datoucloud.com
 - datoucloud.cc
