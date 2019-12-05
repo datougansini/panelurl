@@ -9,8 +9,16 @@
 ## 永久域名
 
 [永久域名](https://datoussr.com) 需翻墙。
-
-## 当前最新域名:
+## 当前最新域名(bighead):
+- [bighead.run](https://bighead.run) 
+- [bighead.ren](https://bighead.ren) 
+- [bighead.icu](https://bighead.icu)
+- [bighead.ink](https://bighead.ink)
+- [bighead.cool](https://bighead.cool)
+- [bighead.pub](https://bighead.pub) 
+- [bighead.plus](https://bighead.plus) 
+- [bighead.group](https://bighead.group)
+## 当前最新域名(大头烧烤):
 - [datoushaokao.ink](https://datoushaokao.ink) 
 - [datoushaokao.fun](https://datoushaokao.fun) 
 - [datoushaokao.pub](https://datoushaokao.pub) 
