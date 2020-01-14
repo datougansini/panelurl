@@ -13,9 +13,6 @@
 - [bighead.run](https://bighead.run) 
 - [bighead.ren](https://bighead.ren) 
 - [bighead.icu](https://bighead.icu)
-- [bighead.ink](https://bighead.ink)
-- [bighead.cool](https://bighead.cool)
-- [bighead.pub](https://bighead.pub) 
 - [bighead.plus](https://bighead.plus) 
 - [bighead.group](https://bighead.group)
 ## 当前最新域名(大头烧烤):
@@ -28,6 +25,9 @@
 - [datoushaokao.ren](https://datoushaokao.ren)
 - [datoushaokao.co](https://datoushaokao.co) 
 ## 已被墙域名datoucloud
+- bighead.ink
+- bighead.cool
+- bighead.pub
 - datoucloud.com
 - datoucloud.cc
 - datoucloud.club
