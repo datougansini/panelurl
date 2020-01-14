@@ -20,10 +20,10 @@
 - [datoushaokao.fun](https://datoushaokao.fun) 
 - [datoushaokao.pub](https://datoushaokao.pub) 
 - [datoushaokao.club](https://datoushaokao.club) 
-- [datoushaokao.ltd](https://datoushaokao.ltd)
 ## 已被墙域名datoushaokao
-- [datoushaokao.ren](https://datoushaokao.ren)
-- [datoushaokao.co](https://datoushaokao.co) 
+- datoushaokao.ren
+- datoushaokao.co
+- datoushaokao.ltd
 ## 已被墙域名datoucloud
 - bighead.ink
 - bighead.cool
