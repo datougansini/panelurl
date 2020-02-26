@@ -7,7 +7,7 @@
 
 ## 永久域名
 
-[永久域名](https://datoussr.com) 需翻墙。
+[永久域名](https://datoussr.com) 需富强。
 ## 最新域名(datou2020)
 - [datou2020.online](https://datou2020.online) 
 - [datou2020.space](https://datou2020.space) 
