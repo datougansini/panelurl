@@ -1,7 +1,12 @@
 <p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datouplus.com/logo.svg" alt="logo"/></span></strong><br/>
 </p>
-
+## 新站
+- [telegram群](https://t.me/bigheadplus)
+- [telegram频道](https://t.me/bigheadplussub)
+## 域名
+- [bighead.plus](https://bighead.plus) 
+- [datouplus.com](https://datouplus.com) 
 
 <p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datou.ink/assets/images/home_logo.svg" alt="logo"/></span></strong><br/>
@@ -32,31 +37,5 @@
 - [datoushaokao.fun](https://datoushaokao.fun) 
 - [datoushaokao.pub](https://datoushaokao.pub) 
 - [datoushaokao.club](https://datoushaokao.club) 
-## 已被墙域名datoushaokao
-- datoushaokao.ren
-- datoushaokao.co
-- datoushaokao.ltd
-## 已被墙域名datoucloud
-- bighead.ink
-- bighead.cool
-- bighead.pub
-- datoucloud.com
-- datoucloud.cc
-- datoucloud.club
-- datoucloud.pro
-- datoucloud.top
-- datoucloud.red
-- datoucloud.ink
-## 已被墙域名datou
-- datou.red
-- datou.ink
-- datou.pub
-- datou.club
-- datou.ltd
-- datou520.com
-- datou666.com
-
-
-## 原导航域名xiaojiejie.ink 已被墙
 
 
