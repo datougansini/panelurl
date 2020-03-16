@@ -2,7 +2,7 @@
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datouplus.com/111logo.svg" alt="logo"/></span></strong><br/>
 </p>
 
-## 新站
+## 新站 V2
 - [telegram群](https://t.me/bigheadplus)
 - [telegram频道](https://t.me/bigheadplussub)
 
@@ -14,6 +14,7 @@
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datou.ink/assets/images/home_logo.svg" alt="logo"/></span></strong><br/>
 </p>
 
+## 老站55
 - [telegram群](https://t.me/BigHeadSSRV2ray)
 - [telegram频道](https://t.me/BigHeadssr)
 
