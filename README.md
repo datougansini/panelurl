@@ -1,4 +1,9 @@
 <p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
+    <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://raw.githubusercontent.com/datougansini/panelurl/master/Vanilla-1.5s-281px.svg" alt="logo"/></span></strong><br/>
+</p>
+
+
+<p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
     <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datou.ink/assets/images/home_logo.svg" alt="logo"/></span></strong><br/>
 </p>
 
