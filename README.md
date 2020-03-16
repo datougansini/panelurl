@@ -1,5 +1,5 @@
 <p style="font-family: &quot;Microsoft YaHei&quot;; font-size: medium; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datouplus.com/logo.svg" alt="logo"/></span></strong><br/>
+    <strong><span style="color: rgb(227, 108, 9); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 12px;"><img src="https://datouplus.com/111logo.svg" alt="logo"/></span></strong><br/>
 </p>
 
 ## 新站
